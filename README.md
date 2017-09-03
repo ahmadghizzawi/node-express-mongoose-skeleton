@@ -7,6 +7,7 @@ An application skeleton for building web apis using express, and mongoose.
     $ cd node-express-mongoose-skeleton
     $ npm install
     $ npm start
+    $ pm2 logs // Show logs stream
     
 ## Style
 This application follows [airbnb style guide](https://github.com/airbnb/javascript).
