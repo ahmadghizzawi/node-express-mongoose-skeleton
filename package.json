@@ -40,6 +40,6 @@
   "pre-commit": "lint-staged",
   "repository": {
     "type": "git",
-    "url": "git://github.com/madhums/node-express-mongoose.git"
-  },
+    "url": "git://github.com/ahmadghizzawi/node-express-mongoose-skeleton.git"
+  }
 }
