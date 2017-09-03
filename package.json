@@ -1,7 +1,7 @@
 {
-  "name": "untitled1",
-  "version": "0.0.0",
-  "private": true,
+  "name": "node-express-mongoose-skeleton",
+  "description": "An application skeleton for building web apps using express, and mongoose.",
+  "version": "0.0.1",
   "scripts": {
     "start": "node index.js",
     "lint-staged": "lint-staged"
@@ -37,5 +37,9 @@
       "git add"
     ]
   },
-  "pre-commit": "lint-staged"
+  "pre-commit": "lint-staged",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madhums/node-express-mongoose.git"
+  },
 }
