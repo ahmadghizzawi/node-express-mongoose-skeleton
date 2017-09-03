@@ -1,2 +1,2 @@
-# nodejs-express-mongoose-skeleton
-A sample node.js with express app.
+# Node Express Mongoose Skeleton
+An application skeleton for building web apps using express, and mongoose.
