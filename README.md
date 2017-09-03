@@ -9,4 +9,4 @@ An application skeleton for building web apps using express, and mongoose.
     $ npm start
     
 ## Style
-This application follows [airbnb style guide](https://github.com/airbnb/javascript)
+This application follows [airbnb style guide](https://github.com/airbnb/javascript).
