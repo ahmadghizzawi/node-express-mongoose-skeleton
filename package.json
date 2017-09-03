@@ -3,7 +3,7 @@
   "description": "An application skeleton for building web apps using express, and mongoose.",
   "version": "0.0.1",
   "scripts": {
-    "start": "node index.js",
+    "start": "pm2 start ecosystem.config.js --watch --env dev",
     "lint-staged": "lint-staged"
   },
   "dependencies": {
@@ -18,6 +18,7 @@
     "less-middleware": "~2.2.0",
     "mongoose": "^4.11.9",
     "morgan": "~1.8.1",
+    "pm2": "^2.6.1",
     "raven": "^2.1.2",
     "serve-favicon": "~2.4.2",
     "winston": "^2.3.1"
