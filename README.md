@@ -1,5 +1,5 @@
 # Node Express Mongoose Skeleton
-An application skeleton for building web apis using express, and mongoose.
+An application skeleton for building web APIs using Express, and Mongoose.
 
 ## Usage
 
