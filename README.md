@@ -12,6 +12,9 @@ An application skeleton for building web APIs using Express, and Mongoose.
 ## Style
 This application follows [airbnb style guide](https://github.com/airbnb/javascript).
 
+## Projects built using this skeleton
+
+
 ## Todo
 - Add thorough documentation of the skeleton
 - Add authentication middleware using Passport.js
