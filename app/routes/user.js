@@ -5,7 +5,7 @@ const { respond } = require('../utils/index');
 
 const router = express.Router();
 
-/* API landing. */
+/* User landing. */
 router.get('/', (req, res) => {
   respond(res, { data: {}, meta: Status.WELCOME }, Status.WELCOME.status);
 });
