@@ -3,11 +3,11 @@ An application skeleton for building web APIs using Express, and Mongoose.
 
 ## Usage
 
-    $ git clone https://github.com/ahmadghizzawi/node-express-mongoose-skeleton.git
-    $ cd node-express-mongoose-skeleton
-    $ npm install
-    $ npm start
-    $ pm2 logs // Show logs stream
+    git clone https://github.com/ahmadghizzawi/node-express-mongoose-skeleton.git
+    cd node-express-mongoose-skeleton
+    npm install
+    npm start
+    pm2 logs // Show logs stream
     
 ## Style
 This application follows [airbnb style guide](https://github.com/airbnb/javascript).
